@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Yo soy Julian Brianza de 5A Info
